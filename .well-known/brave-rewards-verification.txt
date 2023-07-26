@@ -1,4 +1,4 @@
 This is a Brave Creators publisher verification file.
 
-Domain: github.io
-Token: f58cc324662af6f9a3280327e896a362740f82be5a88282789eb9f88ea650399
+Domain: adelrefaat.github.io
+Token: 8b1b4030d7a9adf1c3f7c38c0d5735181cd665bd6bf7a72fce57f9166f68984e
